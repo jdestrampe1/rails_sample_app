@@ -15,4 +15,5 @@ Added full_title Helper.
 Basic CSS Styling.
 Added page links.
 Added integration test.
+Added User Signup page and Routes.
 
