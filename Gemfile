@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.5'
+
 
 gem 'rails', '4.2.4'
 gem 'sass-rails', '~> 5.0'
@@ -13,7 +13,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   gem 'sqlite3', '1.3.9'
   gem 'byebug'
-  gem 'webconsole'
   gem 'spring', '1.1.3'
 end
 
