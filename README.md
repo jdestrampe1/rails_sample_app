@@ -11,4 +11,5 @@ Generated Static Pages Controller.
 Created About Page.
 Set Root.
 Configured Tests.
+Added full_title Helper.
 
