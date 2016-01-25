@@ -8,4 +8,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 Set Up Git Hub Repo.
 Updated Gemfile.
 Generated Static Pages Controller.
+Created About Page.
+Set Root.
+Configured Tests.
 
