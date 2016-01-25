@@ -12,4 +12,7 @@ Created About Page.
 Set Root.
 Configured Tests.
 Added full_title Helper.
+Basic CSS Styling.
+Added page links.
+Added integration test.
 
