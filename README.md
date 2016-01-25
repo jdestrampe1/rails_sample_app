@@ -11,4 +11,6 @@ Generated Static Pages Controller.
 Created About Page.
 Set Root.
 Configured Tests.
+DRYed out code. 
+Added Contact Page and Test.
 
