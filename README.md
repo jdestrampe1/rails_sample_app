@@ -16,4 +16,6 @@ Basic CSS Styling.
 Added page links.
 Added integration test.
 Added User Signup page and Routes.
+Added User Model and Password Validation Tests.
+Added REGEX.
 
